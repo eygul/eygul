@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on https://github.com/pearcej/opensource<br><br>I am currently learning backend development.<br><br>You can reach out to me at https://www.linkedin.com/in/erenygul/
+I have previously worked on https://github.com/pearcej/opensource<br><br>I am currently learning backend development.<br><br>You can reach out to me at https://www.linkedin.com/in/erenygul/
 
 
 ## 🌐 Socials:
